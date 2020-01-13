@@ -1,0 +1,155 @@
+#navbar-link ul{
+    margin-top: 1rem;
+}
+.margin-page{
+    flex-direction: column;
+}
+#simple-bookmark{
+    flex-direction: column-reverse;
+}
+#simple-bookmark #content1{
+    margin-top: 6rem;
+    text-align: center;
+}
+#simple-bookmark p{
+    font-size: 1.7rem;
+    margin: 0;
+}
+#simple-bookmark button{
+    margin: 2rem 1rem 0 1rem;
+    display: inline-block;
+    justify-content: center;
+    padding: 1rem 4rem;
+    font-size: 1rem;
+}
+#simple-bookmark .btn1{
+    background: rgb(164, 164, 245);
+    color:white;
+    border: 1px rgb(131, 129, 129) solid;
+}
+#simple-bookmark .btn2{
+    margin-left: 0;
+    background: white;
+    border: 1px rgb(131, 129, 129) solid;
+}
+#simple-bookmark .box1{
+    width: 36rem;
+    height: 20rem;
+    background: rgb(131, 131, 247);
+    border-top-left-radius: 50%;
+    border-bottom-left-radius: 50%;
+    position: absolute;
+    top: 10rem;
+    right: -1.3rem;
+    z-index: -1000;
+}
+#features{
+    margin-top: 10rem;
+}
+#features p{
+    margin: 1.5rem 5rem;
+    font-size: 1.2rem;
+    font-family: -apple-system, BlinkMacSystemFont, 'Segoe UI', Roboto, Oxygen, Ubuntu, Cantarell, 'Open Sans', 'Helvetica Neue', sans-serif;
+    color: grey;
+}
+#links{
+   display: flex;
+   flex-direction: column;
+}
+#links a{
+    margin: 0 5rem;
+}
+#links .simple{
+   border-top: 2px solid rgb(187, 184, 184);
+}
+#simple-bookmark2{
+    flex-direction: column;
+    margin: 10rem 0;
+}
+#simple-bookmark2 #content2{
+    margin-top: 10rem;
+    text-align: center;
+    padding: 0 5rem;
+}
+#simple-bookmark2 p{
+    font-size: 1.2rem;
+    margin-right: 0;
+    padding: 1.5rem 2rem;
+    padding-bottom: 1.5rem;
+    font-family: -apple-system, BlinkMacSystemFont, 'Segoe UI', Roboto, Oxygen, Ubuntu, Cantarell, 'Open Sans', 'Helvetica Neue', sans-serif;
+    color: grey;
+}
+#download-extension #download-info p{
+    padding: 0 9rem;
+    margin: 0;
+}
+#download-extension #card{
+    flex-direction: column;
+}
+#download-extension .card-wrap{
+    padding: 7rem 2.5rem 3rem 2.5rem;
+    margin: 0 5rem;
+}
+#download-extension #card button{
+    padding: 2rem 7rem;
+    font-size: 1.5rem;
+}
+#faq .faq-question button{
+    padding: .8rem 6rem;
+    font-size: 1rem;
+    
+}
+#contact .text-contact p{
+    font-size: 2rem;
+}
+#contact .text-contact h1{
+    padding: 0 5rem;
+    font-size: 3rem;
+}
+#contact .form-contact{
+    display: flex;
+    flex-direction: column;
+    justify-content: center;
+    text-align: center;
+    align-items: center;
+}
+#contact .form-contact #email{
+    padding: 2rem 2rem;
+    width: 80%;
+    margin: 0 2rem;
+}
+#contact .form-contact button{
+    margin-top: 2rem;
+    padding: 2rem 2rem;
+    width:42rem;
+}
+footer{
+    flex-direction: column ;
+    padding: 3rem 0;
+}
+footer .footer-1{
+    flex-direction: column ;
+}
+footer .footer-1 ul{
+    flex-direction: column;
+}
+footer .footer-1 img{
+    width: 20rem;
+    margin: 2rem 0;
+}
+footer .footer-1 a{
+    font-size: 2rem; 
+}
+footer li{
+    margin: 2rem 0;
+    padding: 0 0 2rem 0;
+    text-align: center;
+}
+
+
+
+
+
+
+
+
